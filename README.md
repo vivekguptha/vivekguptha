@@ -2,12 +2,12 @@
 <h3 align="center">Java Full Stack Developer from India</h3>
 
 ---
+![](https://komarev.com/ghpvc/?username=vivekguptha)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivekguptha)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekguptha)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Vivek%20Guptha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<img align="right" alt="coding" width="350" 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 👨‍💻 About Me
 - 🔭 I’m currently working at **TCS**
 - 🌱 I’m learning **Spring Boot, Microservices, GCP**
