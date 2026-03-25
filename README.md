@@ -34,16 +34,18 @@
 ### 🛠️ Programming
 <img src="https://skillicons.dev/icons?i=java,js,c" />
 
-### 🛠️ Backend/Framework
-<img src="https://skillicons.dev/icons?i=spring,reactjs" />
+### 🛠️ Backend / Framework
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+<img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen?style=for-the-badge&logo=springboot" />
 
 ### 🛠️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 
-### 🛠️ DataBase
+### 🛠️ Database
 <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/IBM%20DB2-Database-blue?style=for-the-badge&logo=ibm" />
 
-### 🛠️ Devops & Tools
+### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,jenkins,maven,linux" />
 
 <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-blue?style=for-the-badge&logo=googlecloud" />
