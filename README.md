@@ -35,15 +35,15 @@
 <img src="https://skillicons.dev/icons?i=java,js,c" />
 
 ### 🛠️ Backend / Framework
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
-<img src="https://img.shields.io/badge/Spring%20Boot-Framework-brightgreen?style=for-the-badge&logo=springboot" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://img.shields.io/badge/Hibernate-Framework-59666C?style=flat&logo=hibernate&logoColor=white" />
 
 ### 🛠️ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react" />
 
 ### 🛠️ Database
 <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/IBM%20DB2-Database-blue?style=for-the-badge&logo=ibm" />
+<img src="https://img.shields.io/badge/IBM%20DB2-Database-052FAD?style=flat&logo=ibm&logoColor=white" />
 
 ### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,jenkins,maven,linux" />
