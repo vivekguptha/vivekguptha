@@ -2,7 +2,11 @@
 <h3 align="center">Java Full Stack Developer from India</h3>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=vivekguptha)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vivekguptha)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekguptha)
+https://skillicons.dev
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb" />
 ### 👨‍💻 About Me
 - 🔭 I’m currently working at **TCS**
 - 🌱 I’m learning **Spring Boot, Microservices, GCP**
@@ -26,4 +30,4 @@
 
 ### 📊 GitHub Stats
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-![](https://komarev.com/ghpvc/?username=YOURUSERNAME)
+
