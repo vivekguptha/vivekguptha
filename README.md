@@ -48,9 +48,18 @@
 ### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,jenkins,maven,linux" />
 
+### 📊 Certifications
+
+<a href="PUT_GCP_CERTIFICATE_LINK_HERE" target="https://www.credly.com/badges/8b3a9d3a-101f-4d13-8bc0-a7d71e655bdc">
 <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Engineer-blue?style=for-the-badge&logo=googlecloud" />
+</a>
+
+<a href="PUT_ORACLE_CERTIFICATE_LINK_HERE" target="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1495EC4272ECC6998A37F81BC3F1C3B2E633A1E620004125C0B4BFD99F7898DD">
 <img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2017-red?style=for-the-badge&logo=oracle" />
+</a>
 
-
+<a href="PUT_AWS_CERTIFICATE_LINK_HERE" target="https://www.credly.com/badges/327b05eb-8bd5-4acf-89cbea06d71ebe2e/public_url">
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
 ### 📊 GitHub Stats:
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekguptha&show_icons=true)
