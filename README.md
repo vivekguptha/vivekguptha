@@ -21,7 +21,16 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 ### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/vivek-guptha/)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vivek-guptha/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://facebook.com/" target="vivekguptha1">
+<img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="48" />
+</a>
+</p>
 
 ---
 
@@ -44,15 +53,5 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2017-red?style=for-the-badge&logo=oracle" />
 
 
-### 🛠️ Languages & Tools
-![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java)
-![Spring](https://img.shields.io/badge/spring-green?style=for-the-badge&logo=spring)
-![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react)
-
----
-
 ### 📊 GitHub Stats:
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekguptha&show_icons=true)
-
-### 📊 Languages and Tools:
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb" />
