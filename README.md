@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[LinkedIn](https://www.linkedin.com/in/vivek-guptha/)
 
 ---
 
@@ -26,3 +26,4 @@
 
 ### 📊 GitHub Stats
 ![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![](https://komarev.com/ghpvc/?username=YOURUSERNAME)
